@@ -14,7 +14,6 @@
 ## Features
 
 - Searchable list of Windows management tools (`msinfo32`, `services.msc`, `eventvwr.msc`, and more)
-- One-click or double-click launch
 - Easy to extend by editing a single array
 
 ## Requirements
