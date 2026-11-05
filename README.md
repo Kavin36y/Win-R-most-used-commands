@@ -1,12 +1,14 @@
 # Win Power User Commands
 
 <!-- Optional: a screenshot or GIF of the launcher in action -->
-![Launcher screenshot](docs/images/launcher.png)
+<img width="668" height="769" alt="image" src="https://github.com/user-attachments/assets/5e7ce445-f2dc-41f0-9013-3f2d07d6f1f7" />
+<img width="668" height="769" alt="Screenshot 2026-11-05 131801" src="https://github.com/user-attachments/assets/bc1c5e4c-791d-4831-aafd-c03938bb4fe7" />
 
--Quick-access launcher and reference for Windows Run-box commands, PowerShell tools, and system utilities.
--I cant remember all the commands so i have created a gui to run it.Most commonly used commands are added.
--Feel free to add  commands yourself(Explained below) .
--Framework used for gui:WinForms
+
+- Quick-access launcher and reference for Windows Run-box commands, PowerShell tools, and system utilities.
+- I cant remember all the commands so i have created a gui to run it.Most commonly used commands are added.
+- Feel free to add  commands yourself(Explained below) .
+- Framework used for gui:WinForms
 
 
 ## Features
