@@ -24,18 +24,29 @@
 
 ## Usage
 - 1.Open PowerShell with administrator privilages.
-- 2.Change Directory or location to where the file is and then run the below 
+- 2.Change Directory or location to where the file is and then run the below
+- For Example(If the .ps1 file is in Downloads):
+  ```powershell
+  cd /Users/$env:USERNAME/Downloads
+  ```
 3. Run the launcher:
+  
+```powershell
+.\Launcher.ps1
+```
+- If the above command fails,try the below command
+
+```powershell
 
 ```powershell
 pwsh -ExecutionPolicy Bypass -File ".\Launcher.ps1"
 ```
 
-Type part of a command name to filter the list, then double-click it or press **Run**.
+
 
 ## Adding your own commands
 
-Open `Launcher.ps1` and add a line to the `$commands` array:
+Open `Launcher.ps1` with you preferred editor and add a line to the `$commands` array:
 
 ```powershell
 [pscustomobject]@{ Name = 'My Tool'; Cmd = 'mytool.exe' }
