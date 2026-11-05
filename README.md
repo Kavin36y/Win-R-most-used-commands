@@ -27,6 +27,7 @@
 - 1.Open PowerShell with administrator privilages.
 - 2.Change Directory or location to where the file is and then run the below
 - For Example(If the .ps1 file is in Downloads):
+  
   ```powershell
   cd /Users/$env:USERNAME/Downloads
   ```
@@ -37,7 +38,6 @@
 ```
 - If the above command fails,try the below command
 
-```powershell
 
 ```powershell
 pwsh -ExecutionPolicy Bypass -File ".\Launcher.ps1"
